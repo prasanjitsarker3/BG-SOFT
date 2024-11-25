@@ -146,27 +146,18 @@ const Header = () => {
         className="overflow-hidden md:hidden"
       >
         <div className="flex flex-col items-center bg-white dark:bg-slate-800 pb-32 space-y-3">
-          <h1 className="text-lg text-[#1F2937] hover:text-[#f6941e] cursor-pointer">
+          <h1 className="text-lg text-slate-700  hover:text-[#8f71e1] cursor-pointer">
             Home
           </h1>
-          <h1 className="text-lg text-slate-800 hover:text-[#f6941e] cursor-pointer">
-            About us
+          <h1 className="text-lg text-slate-700  hover:text-[#8f71e1] cursor-pointer">
+            Shop
           </h1>
-          <h1 className="text-lg text-[#f6941e] flex items-center">
-            Study Distention <ChevronDown className="mt-1" />
+          <h1 className="text-lg text-slate-700  hover:text-[#8f71e1] cursor-pointer">
+            Deals
           </h1>
-          <h1 className="text-lg text-slate-800 flex items-center hover:text-[#f6941e] cursor-pointer">
-            Gallery <ChevronDown className=" mt-1" />
+          <h1 className="text-lg text-slate-700  hover:text-[#8f71e1] cursor-pointer">
+            What's New
           </h1>
-          <h1 className="text-lg text-slate-800 hover:text-[#f6941e] cursor-pointer">
-            Blogs
-          </h1>
-          <h1 className="text-lg text-slate-800 hover:text-[#f6941e] cursor-pointer">
-            Contact us
-          </h1>
-          <button className=" px-4 py-1 border border-[#f6941e] text-[#f6941e] hover:bg-[#f6941e] hover:text-white flex items-center gap-1">
-            Enquired Now <ArrowRight size={16} />
-          </button>
         </div>
       </motion.div>
     </motion.header>
