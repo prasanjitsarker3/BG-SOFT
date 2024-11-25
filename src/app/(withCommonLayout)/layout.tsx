@@ -35,10 +35,10 @@ const CommonLayout = ({ children }: { children: React.ReactNode }) => {
             transition={{ duration: 1 }}
           >
             <div className="text-center py-8 md:px-0 px-8 space-x-3">
-              <h1 className=" text-2xl font-bold vigaRegular text-gray-400">
-                NORT
-                <span className="font-bold vigaRegular text-[#f6941e]">H</span>
-                WAY
+              <h1 className=" text-2xl font-bold vigaRegular text-gray-800">
+                We
+                <span className="font-bold vigaRegular primaryColor">5</span>
+                ive
               </h1>
               <Spinner color="warning" />
             </div>

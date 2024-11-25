@@ -1,6 +1,6 @@
-# NORTHWAY
+# BG SOFT
 
-NORTHWAY Educational Consultancy guides students through the process of studying in the USA, highlighting key benefits, costs, and career opportunities. The website also features student testimonials, blogs, and FAQs to support international students.
+We5ive is a dynamic and user-centric e-commerce platform specializing in sustainable fashion and lifestyle products. The platform offers a seamless shopping experience with features such as new arrivals, exclusive deals, and discounts tailored for customers seeking style and sustainability.
 
 ## Installation
 
@@ -53,5 +53,5 @@ npm run dev
 
 # Live Link
 
-[Live Application] https://ethical1.vercel.app
+[Live Application] https://bgsoft.vercel.app
 # BG-SOFT

@@ -6,11 +6,8 @@ import { Providers } from "@/components/Provider/Provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "NORTHWAY",
-  description: "NORTHWAY",
-  icons: {
-    icon: "https://cdn-icons-png.flaticon.com/128/2995/2995455.png",
-  },
+  title: "We5ive",
+  description: "We5ive",
 };
 
 export default function RootLayout({
